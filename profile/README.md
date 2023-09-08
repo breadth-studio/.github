@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://breadth.app" target="_blank" align="center" alt="Breadth App Logo">
-    <img src="https://github.com/breadth-stuido/.github/raw/master/logo/logo-domain.png" height="100">
+    <img src="https://github.com/breadth-studio/.github/raw/master/logo/logo-domain.png" height="100">
   </a>
 </p>
 
