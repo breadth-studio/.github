@@ -8,7 +8,7 @@
 
 This is the official organization of Breadth App[^info].
 
-- We have a Twitter account: [@breadth_app](https://twitter.com/breadthapp), follow us for updates.
+- We have a Twitter account: [@BreadthApp](https://twitter.com/breadthapp), follow us for updates.
 - Or email us to [Support](mailto:support@breadth.app)
 
 
