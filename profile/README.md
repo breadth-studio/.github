@@ -8,7 +8,7 @@
 
 This is the official organization of Breadth App[^info].
 
-- We have a 📍 [public roadmap](https://github.com/orgs/breadth-studio/projects/1) available, feel free to 💬 [join our Discord server](https://discord.gg/Ugngwb6Cv9) to let us know your thoughts.
+- We have a Twitter account: [@breadth_app](https://twitter.com/breadthapp), follow us for updates.
 - Or email us to [Support](mailto:support@breadth.app)
 
 
